@@ -162,6 +162,3 @@ Frontend runs at: `http://localhost:3000`
 ✔ PostgreSQL persistence
 ✔ Postman API testing
 
-
-
-Would you like me to also **add badges (Java, Spring Boot, React, PostgreSQL)** and a **workflow diagram (Mermaid/Draw\.io)** in the README to make it look even more professional on GitHub?
